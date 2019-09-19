@@ -1,0 +1,7 @@
+c:\users\2019100585\source\repos\Prova\Prova\bin\Debug\Prova.exe.config
+c:\users\2019100585\source\repos\Prova\Prova\bin\Debug\Prova.exe
+c:\users\2019100585\source\repos\Prova\Prova\bin\Debug\Prova.pdb
+c:\users\2019100585\source\repos\Prova\Prova\obj\Debug\Prova.csprojAssemblyReference.cache
+c:\users\2019100585\source\repos\Prova\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+c:\users\2019100585\source\repos\Prova\Prova\obj\Debug\Prova.exe
+c:\users\2019100585\source\repos\Prova\Prova\obj\Debug\Prova.pdb
